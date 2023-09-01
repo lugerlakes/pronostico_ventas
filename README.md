@@ -9,7 +9,7 @@ Predict the number of monthly product sales using regressive and time-series mod
 * Linear Regression
 * Random Forest Regression
 * XGBoost
-* Long Short Term Memory (artifical recurrent neural network)
+* Long Short Term Memory (artificial recurrent neural network)
 * ARIMA Time Series Forecasting
 
 ## Results:
